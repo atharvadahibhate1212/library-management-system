@@ -4,7 +4,7 @@ A responsive Library Management System web application designed for an education
 
 ## Live Demo
 
-- **Live Website:** https://library-management-system1-pnyeoll88-atharva-project1.vercel.app/
+- **Live Website:** https://library-management-system1-theta.vercel.app/
 - **GitHub Repository:** https://github.com/atharvadahibhate1212/library-management-system
 
 ## Features
